@@ -4,7 +4,7 @@
 An atom is the smallest particle of an element that can exist on its own. In other words, if you have a bar of solid gold, the smallest particle that could exist by itself and still be considered gold would be one atom of gold. 
 ## Specifications:
 I will try to demonstrate how the atom works and what is inside it.
-<img src="atom-2.jpg" title="atom" alt="Git" width="1500" height="1300"/>
+<img src="atom-2.jpg" title="atom" alt="Git" width="1000" height="1300"/>
  63Author: Evin1_,
 Warning: date(): Invalid date.timezone value 'Europe/Kyiv', we selected the timezone 'UTC' for now. in /var/www/agent_stack/data/www/doraprojects.net/template/agent.layouts/content.php on line 54
 2018-06-29 11:15:50
