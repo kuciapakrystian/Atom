@@ -3,7 +3,8 @@
 # Atom
 An atom is the smallest particle of an element that can exist on its own. In other words, if you have a bar of solid gold, the smallest particle that could exist by itself and still be considered gold would be one atom of gold. 
 ## Specifications:
-I will try to demonstrate how the atom works and what is inside it. 
+I will try to demonstrate how the atom works and what is inside it.
+![Image alt](https://github.com/kuciapakrystian/Atom/blob/main/atom3.jpg) 
 ## Technologies Used
 - HTML5: Used for structuring the web pages and content.
 - CSS3: Used for styling and layout of the website.
